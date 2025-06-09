@@ -7,6 +7,8 @@ Key aspects include experimenting with different block sizes, potentially fine-t
 Biggest Current Challenges:
     Embedding meaning in context, cross-modality, interpretability, and scalability for long texts or agent memory.
 
+![RAG](https://github.com/user-attachments/assets/002d051e-1f7d-470c-babf-cbb36d5fa3e9)
+
 Helpful links:
 
 https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/
