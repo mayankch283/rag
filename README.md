@@ -16,3 +16,4 @@ https://medium.aiplanet.com/advanced-retrieval-and-evaluation-hybrid-search-with
 https://github.com/UKPLab/sentence-transformers
 https://qdrant.tech/articles/
 https://www.pinecone.io/learn/series/faiss/
+https://huggingface.co/spaces/mteb/leaderboard
